@@ -1,0 +1,91 @@
+Variant: debug
+Config: debug
+Store: C:\Users\Caio\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 8B:19:7C:95:FC:AC:19:72:9B:55:1B:40:16:8D:A1:84
+SHA1: 0F:5F:F1:52:CC:A9:8B:6E:7B:CB:5A:EE:2E:C2:D7:AD:57:D3:C1:A6
+SHA-256: 9A:88:A0:5F:91:9E:E9:ED:B0:9F:06:68:E2:E3:16:9C:47:8D:9E:EF:53:82:32:29:83:4A:46:68:C8:E4:A7:07
+Valid until: quarta-feira, 21 de maio de 2053
+----------
+Variant: release
+Config: debug
+Store: C:\Users\Caio\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 8B:19:7C:95:FC:AC:19:72:9B:55:1B:40:16:8D:A1:84
+SHA1: 0F:5F:F1:52:CC:A9:8B:6E:7B:CB:5A:EE:2E:C2:D7:AD:57:D3:C1:A6
+SHA-256: 9A:88:A0:5F:91:9E:E9:ED:B0:9F:06:68:E2:E3:16:9C:47:8D:9E:EF:53:82:32:29:83:4A:46:68:C8:E4:A7:07
+Valid until: quarta-feira, 21 de maio de 2053
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\Caio\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 8B:19:7C:95:FC:AC:19:72:9B:55:1B:40:16:8D:A1:84
+SHA1: 0F:5F:F1:52:CC:A9:8B:6E:7B:CB:5A:EE:2E:C2:D7:AD:57:D3:C1:A6
+SHA-256: 9A:88:A0:5F:91:9E:E9:ED:B0:9F:06:68:E2:E3:16:9C:47:8D:9E:EF:53:82:32:29:83:4A:46:68:C8:E4:A7:07
+Valid until: quarta-feira, 21 de maio de 2053
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Caio\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 8B:19:7C:95:FC:AC:19:72:9B:55:1B:40:16:8D:A1:84
+SHA1: 0F:5F:F1:52:CC:A9:8B:6E:7B:CB:5A:EE:2E:C2:D7:AD:57:D3:C1:A6
+SHA-256: 9A:88:A0:5F:91:9E:E9:ED:B0:9F:06:68:E2:E3:16:9C:47:8D:9E:EF:53:82:32:29:83:4A:46:68:C8:E4:A7:07
+Valid until: quarta-feira, 21 de maio de 2053
+----------
+
+> Task :desktop_webview_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Caio\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 8B:19:7C:95:FC:AC:19:72:9B:55:1B:40:16:8D:A1:84
+SHA1: 0F:5F:F1:52:CC:A9:8B:6E:7B:CB:5A:EE:2E:C2:D7:AD:57:D3:C1:A6
+SHA-256: 9A:88:A0:5F:91:9E:E9:ED:B0:9F:06:68:E2:E3:16:9C:47:8D:9E:EF:53:82:32:29:83:4A:46:68:C8:E4:A7:07
+Valid until: quarta-feira, 21 de maio de 2053
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Caio\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 8B:19:7C:95:FC:AC:19:72:9B:55:1B:40:16:8D:A1:84
+SHA1: 0F:5F:F1:52:CC:A9:8B:6E:7B:CB:5A:EE:2E:C2:D7:AD:57:D3:C1:A6
+SHA-256: 9A:88:A0:5F:91:9E:E9:ED:B0:9F:06:68:E2:E3:16:9C:47:8D:9E:EF:53:82:32:29:83:4A:46:68:C8:E4:A7:07
+Valid until: quarta-feira, 21 de maio de 2053
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Caio\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 8B:19:7C:95:FC:AC:19:72:9B:55:1B:40:16:8D:A1:84
+SHA1: 0F:5F:F1:52:CC:A9:8B:6E:7B:CB:5A:EE:2E:C2:D7:AD:57:D3:C1:A6
+SHA-256: 9A:88:A0:5F:91:9E:E9:ED:B0:9F:06:68:E2:E3:16:9C:47:8D:9E:EF:53:82:32:29:83:4A:46:68:C8:E4:A7:07
+Valid until: quarta-feira, 21 de maio de 2053
+----------
+
+> Task :firebase_dynamic_links:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Caio\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 8B:19:7C:95:FC:AC:19:72:9B:55:1B:40:16:8D:A1:84
+SHA1: 0F:5F:F1:52:CC:A9:8B:6E:7B:CB:5A:EE:2E:C2:D7:AD:57:D3:C1:A6
+SHA-256: 9A:88:A0:5F:91:9E:E9:ED:B0:9F:06:68:E2:E3:16:9C:47:8D:9E:EF:53:82:32:29:83:4A:46:68:C8:E4:A7:07
+Valid until: quarta-feira, 21 de maio de 2053
+----------
+
+> Task :sqflite:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Caio\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 8B:19:7C:95:FC:AC:19:72:9B:55:1B:40:16:8D:A1:84
+SHA1: 0F:5F:F1:52:CC:A9:8B:6E:7B:CB:5A:EE:2E:C2:D7:AD:57:D3:C1:A6
+SHA-256: 9A:88:A0:5F:91:9E:E9:ED:B0:9F:06:68:E2:E3:16:9C:47:8D:9E:EF:53:82:32:29:83:4A:46:68:C8:E4:A7:07
+Valid until: quarta-feira, 21 de maio de 2053
+----------
