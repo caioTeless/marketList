@@ -1,16 +1,12 @@
-# market_list
+# Em desenvolvimento
+Tela principal
+![image](https://github.com/caioTeless/marketList/assets/61428146/50c68db1-ad8a-4f4f-b852-26b5bc568a35)
 
-A new Flutter project.
+Carrinho
+![image](https://github.com/caioTeless/marketList/assets/61428146/dcdb7c9f-9772-4767-9a80-47ab13b8aef4)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Funcionalidades implementadas até o momento.
+1 - Adicionar os itens.
+2 - Mover para o carrinho.
+3 - Limpar todos ou voltar os itens do carrinho
+3 - Limpar selecionados ou editar os itens.
